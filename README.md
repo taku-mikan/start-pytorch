@@ -20,7 +20,7 @@ for pytorch tutorial
 (3) tutorialの題材について
 > 題材としてFasionMNISTデータセットを用いる。
 
-## Basie
+## Basic
 >  pytorchを扱うための入門編。以下の要素からなる
 > 1. テンソル
 > 2. データセットとデータローダー
