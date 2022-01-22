@@ -4,8 +4,8 @@ for pytorch tutorial
 ## 目次
 
 (1) 元ページについて
-> pytorchチュートリアルを参考にした。
-> 日本語サイト : [pytorch-tutorial(日本語)](https://yutaroogawa.github.io/pytorch_tutorials_jp/)
+> pytorchチュートリアルを参考にした。  
+> 日本語サイト : [pytorch-tutorial(日本語)](https://yutaroogawa.github.io/pytorch_tutorials_jp/)  
 > 英語サイト : [pytorch-tutorial(英語)](https://pytorch.org/tutorials/index.html) 
 
 
