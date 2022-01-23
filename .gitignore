@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# .DS_store
+.DS_store
+*/.DS_store
+
+# image folder
+basic/data/FashionMNIST/raw/
