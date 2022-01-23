@@ -134,3 +134,4 @@ dmypy.json
 
 # image folder
 basic/data/FashionMNIST/raw/
+images/
